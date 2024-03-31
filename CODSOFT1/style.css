@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+}
+.main{
+    height: 700px;
+    width: 100%;
+    float: left;
+    max-width: 100%;
+    overflow: hidden;
+    filter: brightness(100%);
+    background-image: url('cof1.png');
+    background-size: 1700px 700px;
+    margin-top: -20px;
+
+}
+.mainpara {
+    color: white;
+    font-size: 35px;
+    margin-top: 150px;
+    margin-right:600px;
+    margin-left: 70px;
+    font-weight: 400;
+    line-height: 120px;
+    font-family: serif;
+    opacity: 0.9;
+}
+.top_menu{
+    height: 100px;
+    width: 100%;
+    float: left;
+    background-color:black;
+    opacity: 1.0;
+    color: white;
+}
+.menu_option{
+    height: 130px;
+    width:60%;
+    float: left;
+}
+.menu_option li{
+    display: inline-block;
+    font-size: 20px;
+    margin-left:30px;
+    text-align: center;
+    margin-top:30px;
+    float: left;  
+}
+.menu_logo{
+    height:150px;
+    width: 40%;
+    float: left;   
+}
+.menu_logo img{
+    height: 130px;
+    width: 140px;
+    float: left;
+    margin-left:180px;
+    color: white;
+    margin-top: -20px;
+}
+.about{
+    height: 600px;
+    width: 100%;
+    float: left;    
+}
+.about_image{
+    height: 700px;
+    width: 50%;
+    float: left;   
+}
+.about_image img{
+    height:500px ;
+    width: 80%;
+    margin-left:20px;
+    margin-top: 20px;
+    float: left;
+}
+.about_info{
+    height: 700px;
+    width: 50%;
+    float: left;
+}
+.about_info h1{
+    font-size: 50px;
+    float: left;
+    color: black;
+    margin-top: 40px;
+    font-family: cursive;
+    font-weight: 300;
+    margin-left: 200px;
+}
+.about_info h2{
+    font-size: 40px;
+    margin-top:20px;
+    float: left;
+    color: black;
+   margin-left: 20px;
+   font-family: sans-serif;
+   font-weight: 400;
+}
+.about_info p{
+    font-size: 17px;
+    float: left;
+    color: black;
+    margin-top: 20px;
+    font-weight: 300;
+    margin-right: 100px;
+    font-weight: 100;
+    font-family: sans-serif;
+    color: black;
+    word-spacing: 4px;
+    line-height: 25px;
+    margin-left:30px;
+    text-align: justify;
+
+}
+.footer 
+{
+    height: 40px;
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+.footer h4{
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+    font-family: sans-serif;
+    word-spacing: 4px}
